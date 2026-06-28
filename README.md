@@ -28,3 +28,5 @@ The notebook is completely self-contained. Since the dataset is fetched live ins
 1. Download the `Titanic_EDA.ipynb` file from this repository.
 2. Open it inside VS Code, Jupyter, or Google Colab.
 3. Run all cells sequentially.
+
+Note: This is an open source project and was created for just understanding and practice purpose only not intented to hurt someone's feelings
